@@ -1,0 +1,10 @@
+1. localhost:8080/test/login
+2.
+3.localhost:8080/test/register
+4.
+5.
+6.
+7.
+8.localhost:80807test/index
+9.
+
